@@ -1,0 +1,75 @@
+h1, h2, h3, h4, span {
+    color: crimson;
+}
+
+#number-section {
+    padding-top: 150px;
+}
+
+.group  {
+    margin-bottom: 40px;
+}
+
+.paragraph {
+    margin-bottom: 50px;
+}
+
+.bringonbtn {
+    height: 50px;
+    width: 100%;
+    border-radius: 50px !important;
+}
+
+.bringonredbtn {
+    width: 45% !important;
+}
+
+.bg-bringon {
+    color: white;
+    background-color: crimson;
+    border-color: crimson;
+}
+
+.bg-bringon:hover {
+    background-color: crimson;
+    border-color: crimson;
+}
+
+.otp {
+    width: 40px;
+    height: 50px;
+    margin-right: 12px;
+    border-radius: 10px;
+}
+
+.otp:focus {
+    color: #495057;
+    background-color: rgba(128, 128, 128, 0.267);
+    border-color: white;
+    outline: 0;
+    box-shadow: none;
+}
+
+.aginsection {
+    margin-bottom: 20px;
+}
+
+.otpimg {
+    width: 100%;
+    margin-top: 21%;
+    margin-left: -10%;
+}
+
+.modal-content {
+    border-radius: 50px;
+    margin-top: 18%;
+}
+
+.modal-body {
+    padding: 40px;
+}
+
+.bringonbtnlogin {
+    border-radius: 50px;
+    width: 100%;
+}
