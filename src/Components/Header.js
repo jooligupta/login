@@ -1,5 +1,5 @@
 import React from "react";
-export default function Header(props){
+export default function Header(){
     return(
         <nav class="navbar navbar-expand-sm navbar-light fixed-top">
         <div class="container">
